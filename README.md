@@ -4,11 +4,11 @@ Sistem administrasi toko sinar tasik merupakan system pembukuan berbasis desktop
 
 
 ![LOGIN](https://user-images.githubusercontent.com/100406459/197399909-bd1b8508-cdd7-40ca-b5f2-ae0b82f7d336.png)
-![Menu Data Penjualan
-![Menu Biaya Operasional
-![Menu Data Belanja
-![Menu Laporan Keuntungan](https://user-images.githubusercontent.com/100406459/197399776-8cc4ffcf-faaa-4416-80a7-cd0926091063.png)
-](https://user-images.githubusercontent.com/100406459/197399727-cfc15fc8-546c-472a-9a41-d7456d1af976.png)
-](https://user-images.githubusercontent.com/100406459/197399708-0cc9041a-6ec8-4d2e-abbd-6505b96f3421.png)
-](https://user-images.githubusercontent.com/100406459/197399680-d9a3ad9c-9878-44a6-8245-7b498f786575.png)
 
+![Menu Data Penjualan](https://user-images.githubusercontent.com/100406459/197400104-3e197c54-9ff0-4311-bf2c-cbcd1c341035.png)
+
+![Menu Biaya Operasiona](https://user-images.githubusercontent.com/100406459/197404316-0bc1537b-0ccc-4b89-8bac-9036b51bf1bc.png)
+
+![Menu Data Belanja](https://user-images.githubusercontent.com/100406459/197404337-bc04bb5c-a30f-4d45-88bc-b0a9e0072fab.png)
+
+![Menu Laporan Keuntungan](https://user-images.githubusercontent.com/100406459/197404351-dab18941-88e4-4ebb-bbe7-286f34eb13d0.png)
