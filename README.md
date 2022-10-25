@@ -5,6 +5,8 @@ Sistem administrasi toko sinar tasik merupakan system pembukuan berbasis desktop
 Di buat Secara Team :
 (1. Iksan Rafli Fauzi 2.Muhammad Fadhiil Yusuf 3.Muhammad Raffi Wijaya)
 
+Video Kelompok : https://www.youtube.com/watch?v=E5iNtnKYFIo&t=1s
+
 
 ![LOGIN](https://user-images.githubusercontent.com/100406459/197399909-bd1b8508-cdd7-40ca-b5f2-ae0b82f7d336.png)
 
